@@ -7,5 +7,5 @@
 media queries, botões, formularios, alinhamentos de texto,sistema de grid cartões.
 
 ## Tecnologias utiliazadas
-*HTML
-*Bootstrap
+* HTML
+* Bootstrap
