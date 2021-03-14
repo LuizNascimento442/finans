@@ -9,3 +9,4 @@ media queries, bot√µes, formularios, alinhamentos de texto,sistema de grid cart√
 ## Tecnologias utiliazadas
 * HTML
 * Bootstrap
+* CSS
